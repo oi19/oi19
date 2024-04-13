@@ -27,7 +27,7 @@
   - 👯‍♀️ I'm looking to collaborate on value-driven Apps<br>
   - 💬 Ask me about React Native and Mobile Development<br>
   - 📫 How to reach me <a href="mailto:omar2khaled.ok@gmail.com">omar2khaled.ok@gmail.com</a><br>
-  - 📄 Know about my experiences (https://drive.google.com/file/d/1SB4WUvsaClLVmPgA5gWUSDi70YrgaoFN/view?usp=sharing
+  - 📄 Know about my experiences (https://drive.google.com/file/d/1YIyx0RjfY8dYZuM3eKrayBmjjDdgMbyR)
 
 ###
 
